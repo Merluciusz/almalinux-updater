@@ -6,4 +6,4 @@ Before you start using this take the following in consideration:
 1. be sure that you have the right repositories setup -> https://wiki.almalinux.org/repos/
 2. be sure that you have root access to run the script adn internet connection
 
-Happy updateing :)
+Happy updating ! :)
